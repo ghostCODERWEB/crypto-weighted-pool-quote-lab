@@ -1,0 +1,9 @@
+{
+  "balance_in": 100,
+  "balance_out": 100,
+  "weight_in": "0.5",
+  "fee": 0,
+  "amounts": [
+    100
+  ]
+}

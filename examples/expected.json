@@ -1,0 +1,12 @@
+{
+  "quotes": [
+    {
+      "amount_in": 100.0,
+      "initial_invariant": 100.0,
+      "output": 50.0,
+      "post_invariant": 100.00000000000001,
+      "price_impact": 0.5
+    }
+  ],
+  "spot_price": 1.0
+}
